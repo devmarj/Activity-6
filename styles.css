@@ -7,6 +7,14 @@ body {
     justify-content: space-around;
     align-items: center;
     margin: 2px;
+    border: 5px solid;
     border-radius: 50px;
     height: 50px;
+}
+
+.flex-item{
+    border: 5px dotted ;
+    border-radius: 10px;
+    padding: 2vw;
+    margin: 5px; 
 }
